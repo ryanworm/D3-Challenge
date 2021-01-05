@@ -1,4 +1,4 @@
-# Earthquake Visualization
+# Healthcare and demographics
 
 Plotting tectonic plates as well as earthquake location and magnitude. Interactive map allows the user to select what information they want displayed as well as selecting different maps. 
 
