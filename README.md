@@ -9,7 +9,8 @@ An interactive chart allowing the user to explore demographics and risk factor o
   * download the files locally
   * in git, run 'python -m http.server'
   * open page at localhost:8000
-  
+
+![sample1](./static/images/sample1.png)|![sample2](./static/images/sample2.png)
 # Tools/Packages Used: 
 
 
