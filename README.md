@@ -12,6 +12,9 @@ An interactive chart allowing the user to explore demographics and risk factor o
 
 ![sample1](./static/images/sample1.png)|![sample2](./static/images/sample2.png)
 # Tools/Packages Used: 
+* JavaScript
+* HTML
+* CSS
 
 
 
